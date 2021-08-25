@@ -51,6 +51,6 @@ The main objective is to create melds consisting of three cards. The melds can b
 
 ## Contact
 
-- [Meetakshi Setiya](meetakshisetiya.vercel.app)
+- [Meetakshi Setiya](https://meetakshisetiya.vercel.app)
 - [Github: meetakshi253](https://github.com/meetakshi253)
 - [LinkedIn: meetakshisetiya](https://www.linkedin.com/in/meetakshisetiya/)
